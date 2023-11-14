@@ -1,6 +1,4 @@
- Hi, I’m Priya Mandal
- A BCA undergrad.
- How to reach me .mandalpriya960@gmail.com
+
  
 
 <!---
